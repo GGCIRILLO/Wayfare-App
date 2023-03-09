@@ -1,5 +1,5 @@
 # Wayfare-App 🏃‍♂️
-Stay fit and discover. The final result of the Federico II Apple Foundation Program. 
+Find your Way(fare). The final result of the Federico II Apple Foundation Program. 
 
 I attended the Federico II Apple Foundation Program in February-March 2022 at the Apple Developer Academy. 
 The Foundation Program is a short-term, challenge-based class designed to provide aspiring world-class developers the opportunity to experience Apple's learning framework while designing iOS app prototypes. 
